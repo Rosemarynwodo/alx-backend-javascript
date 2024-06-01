@@ -1,4 +1,3 @@
-
 const express = require('express');
 
 const router = require('./routes/index');
@@ -13,4 +12,3 @@ app.use('/students/:major', router);
 app.listen(port);
 
 export default app;
-

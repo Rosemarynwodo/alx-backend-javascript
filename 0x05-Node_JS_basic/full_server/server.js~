@@ -1,4 +1,3 @@
-
 const index = require("./routes/index");
 const express = require("express");
 const app = express();
